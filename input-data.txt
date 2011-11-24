@@ -1,0 +1,44 @@
+# Physical parameters
+#-----------------------------
+
+# Position of the photon source, (x y z) coordinates
+[source]
+0.0 0.0 -20
+
+# Energy of the gamma source, MeV
+[energy]
+3.0
+
+# Density of the scintillator crystal, g/cm^3
+[density]
+3.67
+
+# Crystal position in space, (x y z) coordinates
+[boxmin]
+-15.0 -15.0 -15.0
+[boxmax]
+15.0 15.0 15.0
+
+# Gauss scatter FWHM to apply to detected energies
+[scatter]
+0.0
+
+
+# Simulation details
+#-------------------------------
+
+# GPU kernel invocation parameter
+[threads]
+192
+
+# GPU kernel invocation parameter
+[grids]
+1024
+
+# How many photons to track in one thread
+[photonsperthread]
+100
+
+# How many kernel to invoke in a row
+[repeat]
+10

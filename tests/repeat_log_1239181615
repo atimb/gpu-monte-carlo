@@ -1,0 +1,1920 @@
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 1 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 370.40 ms
+  -> Photons/msec: 53080 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 6458.70 ms (real: 129.17 ms)
+  -> Photons/msec: 15220 
+------------------------------------
+GPU/CPU ratio: 17.44 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                                  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 1 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 378.61 ms
+  -> Photons/msec: 51928 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 6553.20 ms (real: 131.06 ms)
+  -> Photons/msec: 15001 
+------------------------------------
+GPU/CPU ratio: 17.31 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                                  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 1 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 370.92 ms
+  -> Photons/msec: 53005 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 6477.65 ms (real: 129.55 ms)
+  -> Photons/msec: 15176 
+------------------------------------
+GPU/CPU ratio: 17.46 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                                  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 2 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 654.73 ms
+  -> Photons/msec: 60058 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 12966.90 ms (real: 129.67 ms)
+  -> Photons/msec: 15162 
+------------------------------------
+GPU/CPU ratio: 19.81 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                                  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 2 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 654.27 ms
+  -> Photons/msec: 60100 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 12972.60 ms (real: 129.73 ms)
+  -> Photons/msec: 15156 
+------------------------------------
+GPU/CPU ratio: 19.83 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                                  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 2 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 654.21 ms
+  -> Photons/msec: 60105 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 12945.70 ms (real: 129.46 ms)
+  -> Photons/msec: 15187 
+------------------------------------
+GPU/CPU ratio: 19.79 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                                  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 3 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 936.02 ms
+  -> Photons/msec: 63014 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 19427.40 ms (real: 129.52 ms)
+  -> Photons/msec: 15180 
+------------------------------------
+GPU/CPU ratio: 20.76 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 3 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 938.86 ms
+  -> Photons/msec: 62824 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 20078.70 ms (real: 133.86 ms)
+  -> Photons/msec: 14688 
+------------------------------------
+GPU/CPU ratio: 21.39 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 3 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 940.52 ms
+  -> Photons/msec: 62712 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 19958.85 ms (real: 133.06 ms)
+  -> Photons/msec: 14776 
+------------------------------------
+GPU/CPU ratio: 21.22 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 4 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1221.23 ms
+  -> Photons/msec: 64397 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 25943.40 ms (real: 129.72 ms)
+  -> Photons/msec: 15157 
+------------------------------------
+GPU/CPU ratio: 21.24 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 4 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1222.58 ms
+  -> Photons/msec: 64326 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 25864.80 ms (real: 129.32 ms)
+  -> Photons/msec: 15203 
+------------------------------------
+GPU/CPU ratio: 21.16 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 4 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1221.24 ms
+  -> Photons/msec: 64396 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 25851.40 ms (real: 129.26 ms)
+  -> Photons/msec: 15211 
+------------------------------------
+GPU/CPU ratio: 21.17 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 5 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1504.11 ms
+  -> Photons/msec: 65357 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 32444.75 ms (real: 129.78 ms)
+  -> Photons/msec: 15149 
+------------------------------------
+GPU/CPU ratio: 21.57 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 5 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1504.59 ms
+  -> Photons/msec: 65336 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 32467.50 ms (real: 129.87 ms)
+  -> Photons/msec: 15139 
+------------------------------------
+GPU/CPU ratio: 21.58 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 5 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1503.64 ms
+  -> Photons/msec: 65377 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 32408.75 ms (real: 129.63 ms)
+  -> Photons/msec: 15166 
+------------------------------------
+GPU/CPU ratio: 21.55 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 6 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1784.55 ms
+  -> Photons/msec: 66103 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 38884.50 ms (real: 129.62 ms)
+  -> Photons/msec: 15169 
+------------------------------------
+GPU/CPU ratio: 21.79 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 6 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1786.45 ms
+  -> Photons/msec: 66033 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 38653.80 ms (real: 128.85 ms)
+  -> Photons/msec: 15259 
+------------------------------------
+GPU/CPU ratio: 21.64 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 6 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 1786.21 ms
+  -> Photons/msec: 66042 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 38693.70 ms (real: 128.98 ms)
+  -> Photons/msec: 15243 
+------------------------------------
+GPU/CPU ratio: 21.66 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 7 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2066.50 ms
+  -> Photons/msec: 66599 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 45448.90 ms (real: 129.85 ms)
+  -> Photons/msec: 15141 
+------------------------------------
+GPU/CPU ratio: 21.99 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 7 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2068.66 ms
+  -> Photons/msec: 66529 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 45135.30 ms (real: 128.96 ms)
+  -> Photons/msec: 15246 
+------------------------------------
+GPU/CPU ratio: 21.82 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 7 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2066.39 ms
+  -> Photons/msec: 66602 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 45362.10 ms (real: 129.61 ms)
+  -> Photons/msec: 15170 
+------------------------------------
+GPU/CPU ratio: 21.95 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 8 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2350.46 ms
+  -> Photons/msec: 66917 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 51801.60 ms (real: 129.50 ms)
+  -> Photons/msec: 15182 
+------------------------------------
+GPU/CPU ratio: 22.04 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 8 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2348.35 ms
+  -> Photons/msec: 66977 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 51917.20 ms (real: 129.79 ms)
+  -> Photons/msec: 15148 
+------------------------------------
+GPU/CPU ratio: 22.11 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 8 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2351.89 ms
+  -> Photons/msec: 66877 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 51869.20 ms (real: 129.67 ms)
+  -> Photons/msec: 15162 
+------------------------------------
+GPU/CPU ratio: 22.05 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 9 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2631.68 ms
+  -> Photons/msec: 67237 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 58238.55 ms (real: 129.42 ms)
+  -> Photons/msec: 15192 
+------------------------------------
+GPU/CPU ratio: 22.13 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 9 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2635.14 ms
+  -> Photons/msec: 67149 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 58942.35 ms (real: 130.98 ms)
+  -> Photons/msec: 15010 
+------------------------------------
+GPU/CPU ratio: 22.37 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 9 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2639.09 ms
+  -> Photons/msec: 67049 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 59240.70 ms (real: 131.65 ms)
+  -> Photons/msec: 14935 
+------------------------------------
+GPU/CPU ratio: 22.45 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 10 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2926.48 ms
+  -> Photons/msec: 67182 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 64745.50 ms (real: 129.49 ms)
+  -> Photons/msec: 15183 
+------------------------------------
+GPU/CPU ratio: 22.12 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 10 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2917.42 ms
+  -> Photons/msec: 67391 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 64662.50 ms (real: 129.32 ms)
+  -> Photons/msec: 15203 
+------------------------------------
+GPU/CPU ratio: 22.16 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 10 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 2917.10 ms
+  -> Photons/msec: 67398 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 64889.00 ms (real: 129.78 ms)
+  -> Photons/msec: 15150 
+------------------------------------
+GPU/CPU ratio: 22.24 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 11 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3197.69 ms
+  -> Photons/msec: 67633 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 71268.45 ms (real: 129.58 ms)
+  -> Photons/msec: 15173 
+------------------------------------
+GPU/CPU ratio: 22.29 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 11 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3201.82 ms
+  -> Photons/msec: 67546 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 71602.30 ms (real: 130.19 ms)
+  -> Photons/msec: 15102 
+------------------------------------
+GPU/CPU ratio: 22.36 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 11 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3199.03 ms
+  -> Photons/msec: 67604 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 71402.65 ms (real: 129.82 ms)
+  -> Photons/msec: 15144 
+------------------------------------
+GPU/CPU ratio: 22.32 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 12 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3484.54 ms
+  -> Photons/msec: 67708 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 77691.00 ms (real: 129.49 ms)
+  -> Photons/msec: 15184 
+------------------------------------
+GPU/CPU ratio: 22.30 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 12 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3483.59 ms
+  -> Photons/msec: 67726 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 78081.00 ms (real: 130.13 ms)
+  -> Photons/msec: 15108 
+------------------------------------
+GPU/CPU ratio: 22.41 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 12 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3485.57 ms
+  -> Photons/msec: 67687 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 78613.80 ms (real: 131.02 ms)
+  -> Photons/msec: 15006 
+------------------------------------
+GPU/CPU ratio: 22.55 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 13 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3768.39 ms
+  -> Photons/msec: 67825 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 84490.90 ms (real: 129.99 ms)
+  -> Photons/msec: 15125 
+------------------------------------
+GPU/CPU ratio: 22.42 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 13 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3766.76 ms
+  -> Photons/msec: 67854 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 84362.85 ms (real: 129.79 ms)
+  -> Photons/msec: 15148 
+------------------------------------
+GPU/CPU ratio: 22.40 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 13 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 3766.05 ms
+  -> Photons/msec: 67867 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 84136.00 ms (real: 129.44 ms)
+  -> Photons/msec: 15189 
+------------------------------------
+GPU/CPU ratio: 22.34 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 14 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4043.42 ms
+  -> Photons/msec: 68074 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 90453.30 ms (real: 129.22 ms)
+  -> Photons/msec: 15215 
+------------------------------------
+GPU/CPU ratio: 22.37 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 14 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4045.78 ms
+  -> Photons/msec: 68034 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 90650.70 ms (real: 129.50 ms)
+  -> Photons/msec: 15182 
+------------------------------------
+GPU/CPU ratio: 22.41 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 14 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4045.98 ms
+  -> Photons/msec: 68031 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 90400.10 ms (real: 129.14 ms)
+  -> Photons/msec: 15224 
+------------------------------------
+GPU/CPU ratio: 22.34 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 15 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4325.03 ms
+  -> Photons/msec: 68187 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 96443.25 ms (real: 128.59 ms)
+  -> Photons/msec: 15289 
+------------------------------------
+GPU/CPU ratio: 22.30 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 15 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4329.79 ms
+  -> Photons/msec: 68112 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 98057.25 ms (real: 130.74 ms)
+  -> Photons/msec: 15038 
+------------------------------------
+GPU/CPU ratio: 22.65 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 15 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4329.32 ms
+  -> Photons/msec: 68120 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 96996.00 ms (real: 129.33 ms)
+  -> Photons/msec: 15202 
+------------------------------------
+GPU/CPU ratio: 22.40 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 16 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4612.31 ms
+  -> Photons/msec: 68203 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 103756.80 ms (real: 129.70 ms)
+  -> Photons/msec: 15159 
+------------------------------------
+GPU/CPU ratio: 22.50 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 16 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4609.54 ms
+  -> Photons/msec: 68244 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 103535.20 ms (real: 129.42 ms)
+  -> Photons/msec: 15192 
+------------------------------------
+GPU/CPU ratio: 22.46 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 16 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4607.99 ms
+  -> Photons/msec: 68267 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 103645.61 ms (real: 129.56 ms)
+  -> Photons/msec: 15175 
+------------------------------------
+GPU/CPU ratio: 22.49 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 17 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4892.54 ms
+  -> Photons/msec: 68315 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 110240.76 ms (real: 129.70 ms)
+  -> Photons/msec: 15159 
+------------------------------------
+GPU/CPU ratio: 22.53 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 17 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4892.46 ms
+  -> Photons/msec: 68316 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 110346.15 ms (real: 129.82 ms)
+  -> Photons/msec: 15145 
+------------------------------------
+GPU/CPU ratio: 22.55 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 17 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 4892.82 ms
+  -> Photons/msec: 68311 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 110269.66 ms (real: 129.73 ms)
+  -> Photons/msec: 15155 
+------------------------------------
+GPU/CPU ratio: 22.54 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 18 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5174.51 ms
+  -> Photons/msec: 68392 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 118227.60 ms (real: 131.36 ms)
+  -> Photons/msec: 14967 
+------------------------------------
+GPU/CPU ratio: 22.85 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 18 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5174.92 ms
+  -> Photons/msec: 68386 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 116648.09 ms (real: 129.61 ms)
+  -> Photons/msec: 15169 
+------------------------------------
+GPU/CPU ratio: 22.54 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 18 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5176.24 ms
+  -> Photons/msec: 68369 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 116479.80 ms (real: 129.42 ms)
+  -> Photons/msec: 15191 
+------------------------------------
+GPU/CPU ratio: 22.50 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 19 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5455.15 ms
+  -> Photons/msec: 68478 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 123007.90 ms (real: 129.48 ms)
+  -> Photons/msec: 15184 
+------------------------------------
+GPU/CPU ratio: 22.55 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 19 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5459.68 ms
+  -> Photons/msec: 68421 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 122871.09 ms (real: 129.34 ms)
+  -> Photons/msec: 15201 
+------------------------------------
+GPU/CPU ratio: 22.51 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 19 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5457.06 ms
+  -> Photons/msec: 68454 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 122431.25 ms (real: 128.88 ms)
+  -> Photons/msec: 15256 
+------------------------------------
+GPU/CPU ratio: 22.44 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 20 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5742.10 ms
+  -> Photons/msec: 68479 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 129291.00 ms (real: 129.29 ms)
+  -> Photons/msec: 15207 
+------------------------------------
+GPU/CPU ratio: 22.52 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 20 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5742.83 ms
+  -> Photons/msec: 68471 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 129884.99 ms (real: 129.88 ms)
+  -> Photons/msec: 15137 
+------------------------------------
+GPU/CPU ratio: 22.62 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
+Welcome to Scintillator v0.9 beta
+GPU based Monte Carlo simulation. (C) 2009 Attila Incze.
+------------------------------------
+Simulation parameters:
+Source: (0.00 0.00 -2.00), 1.00 MeV 
+Crystal: (-1.00 -1.00 -1.00) - (1.00 1.00 1.00), 3.67 g/cm^3 
+Threads: 192, Grids: 1024, Photons per thread: 100, Repeat: 20 
+===================================================================
+Simulation on GPU in progress...
+  -> GPU processing time: 5741.43 ms
+  -> Photons/msec: 68487 
+Simulation on CPU in progress...
+  -> CPU processing time (estimated): 129843.00 ms (real: 129.84 ms)
+  -> Photons/msec: 15142 
+------------------------------------
+GPU/CPU ratio: 22.62 
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      |       
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                                      ||      
+                                                     |||             |||      
+       |                               |  ||||||||||||||             |||      
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||            ||||     
+------------------------------------------------------------------------------
